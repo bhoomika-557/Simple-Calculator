@@ -1,0 +1,45 @@
+body {
+  /* background-image: linear-gradient(135deg, rgb(20, 20, 90), black); */
+  background-color: rgb(10, 23, 41);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.full {
+  color: aliceblue;
+  margin: 100px;
+  margin-top: 50px;
+  width: 350px;
+  border: 5px solid white;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.button {
+  width: 60px;
+  height: 60px;
+  font-size: 20px;
+  margin-bottom: 4px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.inputclass {
+  background-color: transparent;
+  color: rgb(242, 245, 243);
+  height: 62px;
+  width: 240px;
+  border-style: none;
+  margin-bottom: 22px;
+  text-align: end;
+  font-size: 20px;
+}
+.flexbox {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+}
+.simplecal {
+  font-size: 30px;
+  margin-top: 58px;
+}
